@@ -10,12 +10,12 @@ Número total de transacciones para cada tipo ("Crédito" y "Débito").
 
 # Instrucciones de Ejecucion 
 python 3.10.4
-arhivos:  read.py ==> ejecutable
-          input.txt ==> archivo con el registro de transacciones
-           en el siguiente formato:
-           id,tipo,monto
-           1,Credito,100.00
-           2,Debito,50.00
+arhivos:  read.py ==> ejecutable <br/>
+          input.txt ==> archivo con el registro de transacciones  <br/>
+           en el siguiente formato:  <br/>
+           id,tipo,monto  <br/>
+           1,Credito,100.00  <br/>
+           2,Debito,50.00  <br/>
            
 
 # Enfoque y Solución:

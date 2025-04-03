@@ -16,9 +16,7 @@ arhivos:  read.py ==> ejecutable
            id,tipo,monto
            1,Credito,100.00
            2,Debito,50.00
-           3,Credito,200.00
-           4,Debito,75.00
-           5,Credito,150.00 
+           
 
 # Enfoque y Solución:
 Se abre el archivo de texto y se lee linea a linea, en cada linea se suma y calcula en variables los valores necesarios para el reporte final

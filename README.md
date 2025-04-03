@@ -9,11 +9,10 @@ Conteo de Transacciones:
 Número total de transacciones para cada tipo ("Crédito" y "Débito").
 
 # Instrucciones de Ejecucion 
-python 3.10.4
+python 3.10.4 <br/>
 arhivos:  <br/>
            read.py ==> ejecutable <br/>
-           input.txt ==> archivo con el registro de transacciones  <br/>
-           en el siguiente formato:  <br/>
+           input.txt ==> archivo con el registro de transacciones, en el siguiente formato:  <br/>
            id,tipo,monto  <br/>
            1,Credito,100.00  <br/>
            2,Debito,50.00  <br/>
